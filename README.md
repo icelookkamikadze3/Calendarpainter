@@ -211,4 +211,4 @@ CalendarPainter is offered as a complete free version, including all features an
 Get started today with CalendarPainter! **Download now and create your unique calendar effortlessly!**
 
 ---
-**Last updated:** 2026-09-16 22:00:01 UTC
+**Last updated:** 2026-09-17 00:23:16 UTC
